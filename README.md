@@ -2,7 +2,7 @@
  Codes and Scenes to Modify ur Character at run time. Tested with Synty models
 These are the Items that the addon uses to setup ur List of Facial prefabs in the Creation UI
 
-[Database Files](Githubcreator/Databasefiles.JPG)
+[Database Files](Githubcreator/DatabaseFiles.JPG)
 
 U need 4 charactermodels at all times
 There are 2 Races and 2 Genders.. u need 1 model per race and gender 
