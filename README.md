@@ -34,6 +34,7 @@ If u add more it auto updates to how ever much u put
 ![CharacterFaceItems](Githubcreator/CustomItems.JPG)
 
 Have Fun.
+![Ingame View](Githubcreator/Example.JPG)
 
 Donations are welcome 
 Paypal: xxCallepoxx@gmail.com
