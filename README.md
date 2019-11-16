@@ -3,6 +3,8 @@
 These are the Items that the addon uses to setup ur List of Facial prefabs in the Creation UI
 
 This addon currently only works on Unity version 2019.2.12
+Kit Version 1.50C is recommended
+Tested with FantasyHeroes pack from Synty
 I will Fix this and update it later for it to work on more version
 
 Just Import the Asset File u get when u download the Files
