@@ -7,6 +7,10 @@ Kit Version 1.50C is recommended
 Tested with FantasyHeroes pack from Synty
 I will Fix this and update it later for it to work on more version
 
+For information bout how Races work check this thread
+https://github.com/insthync/UnityMultiplayerARPG_CharacterRace
+
+
 Just Import the Asset File u get when u download the Files
 
 ![Database Files](Githubcreator/DatabaseFiles.JPG)
