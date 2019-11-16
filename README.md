@@ -2,6 +2,11 @@
  Codes and Scenes to Modify ur Character at run time. Tested with Synty models
 These are the Items that the addon uses to setup ur List of Facial prefabs in the Creation UI
 
+This addon currently only works on Unity version 2019.2.12
+I will Fix this and update it later for it to work on more version
+
+Just Import the Asset File u get when u download the Files
+
 ![Database Files](Githubcreator/DatabaseFiles.JPG)
 
 U need 4 charactermodels at all times
@@ -25,3 +30,8 @@ Right now there are 2 of each in the database.. Game auto checks them and fill t
 If u add more it auto updates to how ever much u put
 
 ![CharacterFaceItems](Githubcreator/CustomItems.JPG)
+
+Have Fun.
+
+Donations are welcome 
+Paypal: xxCallepoxx@gmail.com
