@@ -24,4 +24,4 @@ These are the items that need to be inserted into the database so the game knows
 Right now there are 2 of each in the database.. Game auto checks them and fill the list.. and shows 2 in game
 If u add more it auto updates to how ever much u put
 
-![CharacterFaceItems](Githubcreator/customItems.JPG)
+![CharacterFaceItems](Githubcreator/CustomItems.JPG)
