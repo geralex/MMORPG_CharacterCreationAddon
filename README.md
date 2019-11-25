@@ -1,6 +1,8 @@
 # MMORPG_CharacterCreationAddon
  Codes and Scenes to Modify you Character at run time. Tested with Synty models
-These are the Items that the addon uses to setup ur List of Facial prefabs in the Creation UI
+
+This Addon is Copyrighted by Callepo granting permission for it to be used for personal reasons or commercial.
+Anyone who takes it and tries to sell to other people will be handled accordingly.
 
 Donations are welcome 
 Paypal: xxCallepoxx@gmail.com
