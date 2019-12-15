@@ -8,7 +8,7 @@ Donations are welcome
 Paypal: xxCallepoxx@gmail.com
 
 
-Kit Version 1.50C + 1.50D is recommended
+Kit Version 1.50C + 1.50D + 1.51 is recommended
 Tested with FantasyHeroes pack from Synty ( this asset is not included.. )
 If you setup your prefabs right it should work with all models that have Facial textures that you can swap
 
